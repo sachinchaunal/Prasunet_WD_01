@@ -72,5 +72,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@sachinchaunal](https://www.linkedin.com/in/sachin-chaunal-0a510b242) - sachinchaunal@gmail.com
 
-Project Link: [https://sachinchaunal.github.io/Prasunet_WD_Task_01/](https://sachinchaunal.github.io/Prasunet_WD_Task_01/)
+Project Link: [https://sachinchaunal.github.io/Prasunet_WD_01/](https://sachinchaunal.github.io/Prasunet_WD_01/)
 
