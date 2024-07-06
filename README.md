@@ -20,20 +20,6 @@ This project is a responsive landing page featuring an interactive navigation me
 - **CSS:** For styling the elements, including responsive design and animations.
 - **JavaScript:** For adding interactivity, such as toggling the menu and smooth scrolling.
 
-## Installation
-
-To get a local copy up and running, follow these simple steps:
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/responsive-landing-page.git
-   ```
-2. **Navigate to the project directory:**
-   ```sh
-   cd responsive-landing-page
-   ```
-
-3. **Open `index.html` in your browser to view the landing page.**
 
 ## Usage
 
@@ -59,9 +45,6 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
