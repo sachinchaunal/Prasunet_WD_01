@@ -70,7 +70,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourusername](https://www.linkedin.com/in/sachin-chaunal-0a510b242) - your.email@example.com
+Your Name - [@sachinchaunal](https://www.linkedin.com/in/sachin-chaunal-0a510b242) - sachinchaunal@gmail.com
 
-Project Link: [https://github.com/yourusername/responsive-landing-page](https://github.com/yourusername/responsive-landing-page)
+Project Link: [https://sachinchaunal.github.io/Prasunet_WD_Task_01/](https://sachinchaunal.github.io/Prasunet_WD_Task_01/)
 
