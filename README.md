@@ -53,5 +53,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 Your Name - [@sachinchaunal](https://www.linkedin.com/in/sachin-chaunal-0a510b242) - sachinchaunal@gmail.com
 
-Project Link: [https://sachinchaunal.github.io/Prasunet_WD_01/](https://sachinchaunal.github.io/Prasunet_WD_01/)
-
