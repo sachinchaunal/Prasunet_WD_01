@@ -1,5 +1,3 @@
-# Prasunet_WD_Task_01
-
 # Responsive Landing Page with Interactive Navigation Menu
 
 ## Overview
